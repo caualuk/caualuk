@@ -19,7 +19,7 @@ Desenvolvedor full-stack construindo aplicações web de ponta a ponta, do banco
 
 | Projeto | O que faz | Stack |
 |---|---|---|
-| [**studyrats**](https://github.com/caualuk/studyrats) | Descreva aqui em uma frase o que o projeto faz. | TypeScript |
+| [**studyrats**](https://github.com/caualuk/studyrats) | Rede social de estudos com amigos. | TypeScript |
 | [**orkut**](https://github.com/caualuk/orkut) | Recriação do Orkut, a rede social clássica. | TypeScript |
 
 ### Tech Stack
